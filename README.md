@@ -25,3 +25,7 @@ This project demonstrates the use of **counterfactual explanations** for predict
    cd Counterfactuals-For-Customer-Churn-Prediction
 
 2. Open the Jupyter Notebook and run it step-by-step to explore the project.
+
+## References
+1. [ChatGPT by OpenAI](https://openai.com/chatgpt): Used for debugging errors and refining the project implementation.
+2. [DiCE Library by InterpretML](https://github.com/interpretml/DiCE): Used for implementing the DiCE library to generate counterfactual explanations in the project.
